@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Raj👋
 
-<!--
-**Rajxqt/Rajxqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cyber Security and Digital Forensics student at Republic Polytechnic
+💻 Interested in cybersecurity, web development and artificial intelligence
+🌏 Based in Singapore
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔐 Currently studying Cyber Security and Digital Forensics
+* 🌱 Learning JavaScript, Node.js, Express, MySQL and cybersecurity tools
+* 🤖 Working on AI chatbot and web application projects
+* 🎯 Interested in software development, cybersecurity and business analysis
+* 📫 Reach me through LinkedIn or email
+
+## 🛠️ Languages and Technologies
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* Node.js
+* Express.js
+* EJS
+* MySQL
+* Git and GitHub
+
+## 🚀 Featured Projects
+
+### [FileCyberShield](https://github.com/Rajxqt/FileCyberShield)
+
+A lightweight File Integrity Monitoring system designed to detect unauthorised changes to important files.
+
+**Languages:** MySQL, Javascript, Express.js, EJS
+
+## 📚 Currently Learning
+
+* Secure web application development
+* Database integration
+* AI and retrieval-augmented generation
+* Network and cloud security
+* GitHub collaboration
+
+## 🤝 Connect With Me
+
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/raj-veer-singh/) 
+* Instagram: [Rajxqz](https://www.instagram.com/rajxqz/)
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
