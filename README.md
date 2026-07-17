@@ -8,9 +8,9 @@
 
 * 🔐 Currently studying Cyber Security and Digital Forensics
 * 🌱 Learning JavaScript, Node.js, Express, MySQL and cybersecurity tools
-* 🤖 Working on AI chatbot and web application projects
+* 🤖 Working on Cybersecurity related projects
 * 🎯 Interested in software development, cybersecurity and business analysis
-* 📫 Reach me through LinkedIn or email
+* 📫 Reach me through LinkedIn or Instagram
 
 ## 🛠️ Languages
 
