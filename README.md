@@ -12,7 +12,7 @@
 * 🎯 Interested in software development, cybersecurity and business analysis
 * 📫 Reach me through LinkedIn or email
 
-## 🛠️ Languages and Technologies
+## 🛠️ Languages
 
 * HTML
 * CSS
@@ -22,7 +22,6 @@
 * Express.js
 * EJS
 * MySQL
-* Git and GitHub
 
 ## 🚀 Featured Projects
 
